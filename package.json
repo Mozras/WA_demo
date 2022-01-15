@@ -18,7 +18,7 @@
     "morgan": "~1.9.1",
     "puppeteer": "^5.0.0",
     "puppeteer-har": "^1.1.2",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {
